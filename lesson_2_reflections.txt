@@ -17,3 +17,7 @@ When trying out different algorithms or differnt parameters.
 How do the diagrams help you visualize the branch structure?
 
 They display the non-linear nature of the commit history.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We get a unified brance.  We use a diagram because it can be confusing where code is comming from.
