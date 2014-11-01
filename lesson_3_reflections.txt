@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local? 
+
+If you are working on mulitple computers or do not have your files backed up.
