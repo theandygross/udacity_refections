@@ -21,3 +21,7 @@ They display the non-linear nature of the commit history.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 We get a unified brance.  We use a diagram because it can be confusing where code is comming from.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Doing so automatically reduces human error, but can introduce side effects... needs testing.
